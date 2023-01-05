@@ -21,4 +21,4 @@
 ### 😄 Pronouns...
 - He/Him
 
-[![Saarthaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=saarthak2002)](https://github.com/anuraghazra/github-readme-stats)
+![Saarthaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=saarthak2002&show_icons=true&count_private=true&hide=stars,issues&include_all_commits=true&theme=dark&line_height=30)
