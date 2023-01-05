@@ -1,5 +1,7 @@
-### Hi there 👋
-## My name is Saarthak Gupta
+## Hi there 👋 I'm Saarthak!
+
+### 🔭 Who am I...
+- Computer Science student at the University of Virginia
 
 <!--
 **saarthak2002/saarthak2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
