@@ -1,8 +1,13 @@
 ## Hi there 👋 I'm Saarthak!
 
 ### 🔭 Who am I...
-- Computer Science student at the University of Virginia
+- BS in Computer Science at the University of Virginia in Charlottesville, VA
+- Passionate about building software to solve complex problems
+- Interested in full stack development, experience with Java, Python, web development, SQL & many other technologies
 
+### 📫 How to reach me...
+- [LinkedIn] (https://www.linkedin.com/in/saarthak-gupta/)
+- [E-mail] (mailto:saarthakvir@gmail.com)
 <!--
 **saarthak2002/saarthak2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
