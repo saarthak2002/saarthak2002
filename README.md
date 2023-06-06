@@ -13,7 +13,7 @@
 - Software and Product Internship roles for Summer 2023
 
 ### 📫 How to reach me...
-- [Personal Website](https://saarthak2002.github.io/personal-website/)
+- [Personal Website](https://saarthak2002.github.io/website/)
 - [LinkedIn](https://www.linkedin.com/in/saarthak-gupta/)
 - [E-mail](mailto:saarthakvir@gmail.com)
 - [Schedule A Meeting](https://calendly.com/saarthakgupta/30min)
