@@ -28,3 +28,4 @@
 
 ### 📊 Stats...
 ![Saarthaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=saarthak2002&show_icons=true&count_private=true&hide=stars,issues&include_all_commits=true&theme=dark&line_height=30)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=saarthak2002&layout=compact)
