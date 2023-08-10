@@ -27,8 +27,8 @@
 - Astronomy
 
 ### 🧑‍💻 Projects...
-| Project | Description |
-| --- | --- |
-| Caldera Roguelike Dungeons | Procedurally generated dungeon crawling strategy game |
-| task.it Platform | Web and mobile task management platform focusing on collaboration |
+| Project | Description | Links |
+| --- | --- | --- |
+| Caldera Roguelike Dungeons | Procedurally generated dungeon crawling strategy game | [Source Code](https://github.com/saarthak2002/caldera-roguelike) |
+| task.it Platform | Web and mobile task management platform focusing on collaboration | [Website](https://taskit-frontend-a7880b47804a.herokuapp.com/), [Backend](https://github.com/saarthak2002/taskit-backend) |
 
