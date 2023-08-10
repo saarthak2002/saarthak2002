@@ -10,7 +10,7 @@
 - Exploring machine learning and AI
 
 ### 👀 I’m currently looking for...
-- Software and Product Internship roles for Summer 2023
+- Software and Product Internship roles for Summer 2024
 
 ### 📫 How to reach me...
 - [Personal Website](https://saarthak2002.github.io/website/)
@@ -26,6 +26,9 @@
 - Music
 - Astronomy
 
-### 📊 Stats...
-![Saarthaks's GitHub stats](https://github-readme-stats.vercel.app/api?username=saarthak2002&show_icons=true&count_private=true&hide=stars,issues&include_all_commits=true&theme=dark&line_height=30)
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=saarthak2002&layout=compact)
+### 🧑‍💻 Projects...
+| Project | Description |
+| --- | --- |
+| Caldera Roguelike Dungeons | Procedurally generated dungeon crawling strategy game |
+| task.it Platform | Web and mobile task management platform focusing on collaboration |
+
