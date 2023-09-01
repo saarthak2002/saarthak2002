@@ -3,7 +3,9 @@
 ### 🔭 Who am I...
 - BS in Computer Science at the University of Virginia in Charlottesville, VA
 - Passionate about building software to solve complex problems
-- Interested in full stack development; experience with Java, Python, web development, SQL & many other technologies
+- Programming Languages: JavaScript, Python, Dart, Java, C/C++, Swift, HTML, CSS, PHP, SQL
+- Frameworks: React, Node.js, Flask, Django, React Native, Flutter, Bootstrap 5, Material UI, NumPy, Pandas, NetworkX, scikit-learn
+- Technologies: PostgreSQL, MongoDB, MySQL, Git, Heroku, REST, Agile, CI/CD, Matlab, Power BI
 
 ### 🌱 I’m currently learning ...
 - Advanced software development methods and web frameworks
@@ -18,9 +20,6 @@
 - [E-mail](mailto:saarthakvir@gmail.com)
 - [Schedule A Meeting](https://calendly.com/saarthakgupta/30min)
 
-### 😄 Pronouns...
-- He/Him
-
 ### 🎸 I enjoy...
 - Photography
 - Music
@@ -30,6 +29,6 @@
 | Project | Description | Links |
 | --- | --- | --- |
 | Caldera Roguelike Dungeons | Procedurally generated dungeon crawling strategy game | [Source Code](https://github.com/saarthak2002/caldera-roguelike) |
-| task.it Platform | Web and mobile task management platform focusing on collaboration | [Website](https://taskit-frontend-a7880b47804a.herokuapp.com/), [Backend](https://github.com/saarthak2002/taskit-backend) |
-| ImageFactory App | iOS/Android social media platform for AI-generated art | [Demo](https://youtu.be/1ZjEhijCEzE), Source: [Frontend](https://github.com/saarthak2002/ImageFactory), [Backend](https://github.com/saarthak2002/ImageFactoryBackEnd) |
+| task.it Platform | Web and mobile task management platform focusing on collaboration | [Website](https://taskit-frontend-a7880b47804a.herokuapp.com/), [Demo](https://youtu.be/1ZjEhijCEzE), [Backend code](https://github.com/saarthak2002/taskit-backend), [Mobile code](https://github.com/saarthak2002/taskit-mobile), [Web code](https://github.com/saarthak2002/taskit-app) |
+| ImageFactory App | iOS/Android social media platform for AI-generated art | [Demo](https://youtu.be/1ZjEhijCEzE), [Frontend code](https://github.com/saarthak2002/ImageFactory), [Backend code](https://github.com/saarthak2002/ImageFactoryBackEnd) |
 
