@@ -27,7 +27,7 @@
 
 ### 🧑‍💻 Featured Projects...
 | Project | Description | Tech | Links |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | task.it Platform | Web and mobile task management platform focusing on collaboration | React, Flask, Flutter, Firebase, PostgreSQL, Material UI | [Website](https://taskit-frontend-a7880b47804a.herokuapp.com/), [Demo](https://youtu.be/1ZjEhijCEzE), [Backend code](https://github.com/saarthak2002/taskit-backend), [Mobile code](https://github.com/saarthak2002/taskit-mobile), [Web code](https://github.com/saarthak2002/taskit-app) |
 | ImageFactory App | iOS/Android social media platform for AI-generated art | React Native, Node.js, Express.js, MongoDB | [Demo](https://youtu.be/trwPyBvvdhU), [Frontend code](https://github.com/saarthak2002/ImageFactory), [Backend code](https://github.com/saarthak2002/ImageFactoryBackEnd) |
 | TutorMe Web App | Matches students with tutors for classes on a college campus | Django, Bootstrap 5, PostgreSQL, Heroku, JavaScript | [Source code](https://github.com/saarthak2002/TutorMe), [Website](https://tutor-me-a29.herokuapp.com/tutorme/) |
