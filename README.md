@@ -3,11 +3,12 @@
 ### 🔭 Who am I...
 - BS in Computer Science at the University of Virginia in Charlottesville, VA
 - Passionate about building software to solve complex problems
-- Programming Languages: JavaScript, TypeScript, Python, Dart, Java, C/C++, Swift, HTML, CSS/LESS/SASS/SCSS, PHP, SQL
-- Frameworks: React, Angular, Node.js, Flask, Django, React Native, Flutter, Bootstrap 5, Material UI, NumPy, Pandas, NetworkX, scikit-learn, TensorFlow
-- Technologies: AWS (IAM, EC2, S3, Lambda, RDS/Aurora, DynamoDB), PostgreSQL, MongoDB, MySQL, Git, Heroku, REST, Agile, CI/CD, Matlab, Power BI
+- Programming Languages: JavaScript, TypeScript, Python, R, Dart, Java, Go, C/C++, Swift, HTML, CSS/LESS/SASS/SCSS, PHP, SQL
+- Frameworks: React, Angular, Node.js, Express.js, Flask, Django, React Native, Flutter, jQuery, Bootstrap 5, Material UI, NumPy, Pandas, NetworkX, Scikit-learn, TensorFlow, PySpark, Dask
+- Technologies: AWS (IAM, EC2, S3, SQS, Lambda, RDS/Aurora, DynamoDB), PostgreSQL, MongoDB, MySQL, Git, Heroku, REST, Agile, CI/CD, GitHub Actions, Matlab, Power BI, Figma, Postman, MapReduce, Apache HDFS
 
 ### 🌱 I’m currently learning ...
+- Design and development of distributed cloud systems
 - Advanced software development methods and web frameworks
 - Exploring machine learning and AI
 
